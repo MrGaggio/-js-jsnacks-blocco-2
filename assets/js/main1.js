@@ -10,6 +10,14 @@ const nomi = ["Stefano", "Marco", "Luca", "Giovanni", "Amedeo", "Silvia", "Ilari
 // Lista di cognomi
 const cognomi = ["Rossi", "Russo", "Ferrari", "Esposito", "Bianchi", "Romano", "Colombo"]
 
-// Bisogna generare una falsa lista di invitati 
-const falsaLista = []
 
+
+
+
+//creare un nuovo array che contenga nomi + cognomi casuali
+
+
+for (let i = 0; i < array.length; i++) {
+    const element = array[i];
+    
+}
